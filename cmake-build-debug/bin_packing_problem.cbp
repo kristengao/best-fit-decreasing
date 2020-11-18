@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bin_packing_problem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bin_packing_problem">
+				<Option output="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/bin_packing_problem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 bin_packing_problem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bin_packing_problem/fast">
+				<Option output="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/bin_packing_problem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 bin_packing_problem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/koumoemoe/学习/bin_packing_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/BFD.cpp">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/BFD.h">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/FF.cpp">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/FF.h">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/bestFit.cpp">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/bestFit.h">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/commonFunction.cpp">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/commonFunction.h">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/main.cpp">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/nextFit.cpp">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/nextFit.h">
+			<Option target="bin_packing_problem"/>
+		</Unit>
+		<Unit filename="/Users/koumoemoe/学习/bin_packing_problem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
