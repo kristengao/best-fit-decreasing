@@ -13,6 +13,7 @@ public:
 
     bool init(){
         cout<<"Method BFD init:\n";
+        cout<<endl;
         commonFunction::init();
     }
     void Output(vector<Box_t>& v){
