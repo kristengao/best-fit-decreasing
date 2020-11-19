@@ -11,9 +11,8 @@ using namespace std;
 class BFD: public commonFunction {
 public:
 
-    bool init(){
+    bool init() override {
         cout<<"Method BFD init:\n";
-        cout<<endl;
         commonFunction::init();
     }
     void Output(vector<Box_t>& v){

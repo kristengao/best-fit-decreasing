@@ -8,7 +8,7 @@
 
 class FF : public commonFunction{
 public:
-    bool init(){
+    bool init () override{
         cout<<"Method FirstFit init:\n";
         commonFunction::init();
     }

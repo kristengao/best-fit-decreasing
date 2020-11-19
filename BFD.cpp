@@ -16,14 +16,14 @@ void BFD::InsertBox(vector<int> v,int iBoxSize){
             {
                 vtBox[ j ].remainder -= tmp;
                 bInsert =  true ;
-                vtBox[ j ].items.push_back( k );
+                vtBox[ j ].items.push_back( tmp );
                 break ;
             }
         }
         if  (bInsert ==  false )
         {
             Box_t box;
-            box.items.push_back(k);
+            box.items.push_back(tmp);
             box.remainder = iBoxSize - tmp;
             vtBox.push_back( box );
         }

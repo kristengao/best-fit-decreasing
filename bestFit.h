@@ -8,7 +8,7 @@
 
 class bestFit:public commonFunction {
 public:
-    bool init(){
+    bool init ()override{
         cout<<"Method bestFit init:\n";
         commonFunction::init();
     }

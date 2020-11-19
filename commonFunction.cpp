@@ -3,8 +3,6 @@
 //
 
 #include "commonFunction.h"
-
-
 void commonFunction::Output(const vector<Box_t> &v) {
     for(int i=0;i<v.size();i++){
         cout<<"第"<<i+1<<"个箱子的物品分别是\n";
@@ -16,6 +14,7 @@ void commonFunction::Output(const vector<Box_t> &v) {
 }
 
 bool commonFunction::init() {
+    //cout<<"commonFunction::init\n";
     cout<<"请输入箱子大小\n";
     int iBoxSize;
     cin>>iBoxSize;

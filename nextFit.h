@@ -8,7 +8,7 @@
 
 class nextFit :public commonFunction{
 public:
-    bool init(){
+    bool init()override {
         cout<<"Method nextFit init:\n";
         commonFunction::init();
     }

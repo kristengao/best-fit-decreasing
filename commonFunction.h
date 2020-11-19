@@ -22,7 +22,7 @@ public:
     }
 
     virtual  void InsertBox(vector<int> v,int iBoxSize)=0;
-    bool init();
+    virtual bool init();
 
     void Output(const vector<Box_t> &v);
 

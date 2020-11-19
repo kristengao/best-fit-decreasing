@@ -10,8 +10,10 @@ int main() {
     nextFit nf;
     FF ff;
     bestFit bf;
+    commonFunction& cf=bfd;
 
-    while  ( !bfd.init() ){}
+
+    while  ( !cf.init() ){}
     system (  "pause"  );
     return  0;
 }

@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/koumoemoe/学习/bin_packing_problem/BFD.cpp
+BFD.h
+/Users/koumoemoe/学习/bin_packing_problem/BFD.h
+
 /Users/koumoemoe/学习/bin_packing_problem/BFD.h
 iostream
 -
@@ -16,9 +20,17 @@ algorithm
 commonFunction.h
 /Users/koumoemoe/学习/bin_packing_problem/commonFunction.h
 
+/Users/koumoemoe/学习/bin_packing_problem/FF.cpp
+FF.h
+/Users/koumoemoe/学习/bin_packing_problem/FF.h
+
 /Users/koumoemoe/学习/bin_packing_problem/FF.h
 commonFunction.h
 /Users/koumoemoe/学习/bin_packing_problem/commonFunction.h
+
+/Users/koumoemoe/学习/bin_packing_problem/bestFit.cpp
+bestFit.h
+/Users/koumoemoe/学习/bin_packing_problem/bestFit.h
 
 /Users/koumoemoe/学习/bin_packing_problem/bestFit.h
 commonFunction.h
@@ -43,6 +55,10 @@ nextFit.h
 /Users/koumoemoe/学习/bin_packing_problem/nextFit.h
 BFD.h
 /Users/koumoemoe/学习/bin_packing_problem/BFD.h
+
+/Users/koumoemoe/学习/bin_packing_problem/nextFit.cpp
+nextFit.h
+/Users/koumoemoe/学习/bin_packing_problem/nextFit.h
 
 /Users/koumoemoe/学习/bin_packing_problem/nextFit.h
 commonFunction.h
